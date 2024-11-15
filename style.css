@@ -1,0 +1,85 @@
+*{
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body{
+  background-color: rgb(27, 26, 26);
+  margin: 0px;
+}
+header{
+  background-color: darkgreen; color: white;
+  padding: 5px;
+  position: sticky;
+  top: 0;
+}
+main{ 
+  background-color: black; color: white;
+  width: 400px; margin: auto;
+  padding: 25px;
+}
+footer{
+  background-color: darkgreen; color: white;
+  padding: 10px;
+} 
+div{
+  margin-top: 10px;
+  padding: 10px;
+  border-bottom: 1px solid green;
+}
+.posteo{
+  background-color: green;
+}
+.anuncio{
+  background-color: rgb(31, 157, 199);
+}
+#foto-perfil{
+  border-radius: 50%;
+  border-style: double;
+  border-color: darkgreen;
+  height: 100px;
+  width: 100px;
+}
+img{
+  width: 100%;
+  border-style: solid;
+  border-color: black;
+}
+#nombre-usuario{
+  font-weight: bold;
+font-family: "Roboto Mono", monospace;
+border-bottom: 1px solid white;
+font-size: 20px;
+}
+h2{
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+  color: white;
+}
+head{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
+.TITULOS{
+  text-decoration: underline;
+  
+}
+#anuncio{
+  border-color: lightblue;
+}
+.subtexto{
+  font-family: 'rubic wet paint', cursive;
+  color: white;
+}
+#halloween{
+  text-decoration: undeline;
+  font-family: 'Rubik Wet Paint', cursive;
+}
+h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  
+
